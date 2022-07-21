@@ -1,8 +1,10 @@
 
 ### Hi there 👋 I'm Akkkarapon Phikulsri
-- 🌱 I’m currently learning  **Bachelor's in Computer Science**
-
-- 🌱 I’m currently learning **React, Nextjs, Nestjs, Sequelize, Postgresql**
+- 🌱 I’m currently learning:
+-  **Bachelor's in Computer Science**
+-  **System analysis**
+-  **UX/UI Desgin**
+-  **React, Nextjs, Nestjs, Sequelize, Postgresql**
 
 <!-- - 👨‍💻 All of my projects are available at [billowdev.com](billowdev.com) -->
 
