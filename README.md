@@ -6,11 +6,6 @@
 
 <!-- - 👨‍💻 All of my projects are available at [billowdev.com](billowdev.com) -->
 
-
-<h3 align="left">Languages and Tools:</h3>
-
-
-
 <h3 align="center">A passionate fullstack developer from Thailand</h3>
 
 <br />
