@@ -1,6 +1,19 @@
 
 ### Hi there 👋 I'm Akkkarapon Phikulsri
-- 🌱 I’m currently learning : Bachelor's in Computer Science
+- 🌱 I’m currently learning  **Bachelor's in Computer Science**
+
+- 🌱 I’m currently learning **React, Nextjs, Nestjs, Sequelize, Postgresql**
+
+<!-- - 👨‍💻 All of my projects are available at [billowdev.com](billowdev.com) -->
+
+
+<h3 align="left">Languages and Tools:</h3>
+
+
+
+<h3 align="center">A passionate fullstack developer from Thailand</h3>
+
+<br />
 
 <img align="right" width="200" alt="GIF" src="images/t_Panda.gif" />
 
@@ -42,7 +55,7 @@
 
 
  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
+ <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> 
 	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 	 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 	 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
