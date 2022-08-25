@@ -1,7 +1,7 @@
 
-# Hi there 👋 I'm Akkkarapon Phikulsri
+# Hi there 👋 I'm Akkarapon Phikulsri
 
-## 🌱 I’m currently learning: Bachelor's in Computer Science
+- 🌱 I’m currently learning: Bachelor's in Computer Science
 
 
 
