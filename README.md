@@ -1,6 +1,6 @@
-<p align="cecnter">
-# Hi there 👋 I'm Akkarapon Phikulsri (BillowDev)
-          </p>
+
+# Hi there 👋 I'm Akkarapon Phikulsri
+
 - 🌱 I’m currently learning: Bachelor's in Computer Science
 - Passioning in Python, JavaScript and Typescript, Web Frameworks like Nestjs, Nextjs, Library Reactjs.
 <!-- <p align="center">
