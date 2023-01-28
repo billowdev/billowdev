@@ -4,8 +4,12 @@
 - 🌱 I’m currently learning: Bachelor's Degree in Computer Science
 - 📄 I have a strong passion for web development, particularly in back-end development. My technical skills include proficiency in programming languages like Python and TypeScript, as well as experience with frameworks and libraries such as Nest.js, Next.js, React, Redux, and also in Flutter for Mobile Development. I possess a strong ability to adapt and learn quickly
 
-- Youtube channel BillowDev
-<img src="images/Billodev.png">
+
+<h3 style="text-align: center;"> Youtube Channel BillowDev </h3>
+<br />
+<div style="text-align:center">
+<img src="https://raw.githubusercontent.com/billowdev/billowdev/main/images/Billowdev.png" title="billowdev" width=250>
+</div>
 
 <!-- - Passioning in Python, JavaScript and Typescript, Web Frameworks like Nestjs, Nextjs, Library Reactjs, Redux. -->
 <!-- <p align="center">
