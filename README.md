@@ -12,7 +12,7 @@
 
 <p align=center>
 <a href="https://www.youtube.com/@billowdev"> 
-<img src="https://raw.githubusercontent.com/billowdev/billowdev/main/images/Billowdev.png" title="billowdev" width=250>
+<img src="https://raw.githubusercontent.com/billowdev/billowdev/main/images/Billowdev.svg" title="billowdev" width=250>
 </a>
 </p>
 
