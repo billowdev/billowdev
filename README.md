@@ -18,16 +18,4 @@
 
 <br />
 
-<table width="100%"> 
-  <tr>
-    <td width="52%">
-      <img src="https://github-readme-stats.vercel.app/api?username=billowdev&show_icons=true&theme=algolia">
-    </td>
-    <td width="40%">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=billowdev&layout=compact&langs_count=8&theme=algolia">
-    </td>
-  </tr>
-</table>
-<p align=center>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=billowdev&amp;langs_count=8&amp;theme=algolia">
-</p>
