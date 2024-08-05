@@ -1,5 +1,7 @@
 
-# Hi there 👋 I'm Akkarapon Phikulsri a software craftsman passionate about exploring new technologies and creating innovative solutions to solve business problems.
+# Hi there 👋 I'm Akkarapon Phikulsri 
+
+✅ A software craftsman passionate about exploring new technologies and creating innovative solutions to solve business problems.
 
 ✅ I have a solid foundation in programming languages such as Python Golang and TypeScript, I also have extensive experience working with frameworks and libraries like Nest.js, React, and Redux. My expertise extends to software design patterns, enabling me to develop robust and scalable applications. Knowledge about distributed system Microservices.
 
