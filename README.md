@@ -8,3 +8,7 @@
 ✅ I pride myself on my strong ability to adapt and learn quickly, traits that have consistently contributed to my success in tackling challenging projects and staying abreast of the latest technological advancements. 
 
 ✅ I am eager to leverage my skills and dedication to contribute to innovative software solutions.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=billowdev&show_icons=true&hide_border=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=billowdev&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ 
