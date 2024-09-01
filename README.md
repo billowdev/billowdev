@@ -19,7 +19,5 @@
 ![GoHexa](https://raw.githubusercontent.com/rapidstellar/gohexa/main/images/GOHEXA.png)
 
 ## Example golang with Hexagonal Architecture
-
-[exlusive golang hexagonal GitHub Repository]([https://github.com/rapidstellar/gohexa](https://github.com/rapidstellar/exclusive-go-hexa))
-
+[gohexa GitHub Repository]([https://github.com/rapidstellar/gohexa](https://github.com/rapidstellar/gohexa](https://github.com/rapidstellar/exclusive-go-hexa))
 
