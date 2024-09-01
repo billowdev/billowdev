@@ -20,5 +20,5 @@
 
 ## Example golang with Hexagonal Architecture
 
-[Exclusive Golang Hexagonal Architecture GitHub Repository](https://github.com/rapidstellar/gohexa](https://github.com/rapidstellar/exclusive-go-hexa)
+[Exclusive Golang Hexagonal Architecture GitHub Repository](https://github.com/rapidstellar/exclusive-go-hexa)
 
