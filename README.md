@@ -12,13 +12,13 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=billowdev&show_icons=true&hide_border=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=billowdev&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## gohexa Golang RESTful Service CLI
+## Gohexa Golang RESTful Service CLI
 
 [gohexa GitHub Repository](https://github.com/rapidstellar/gohexa)
 
-![GoHexa](https://raw.githubusercontent.com/rapidstellar/gohexa/main/images/GOHEXA.png)
+![GoHexa](https://raw.githubusercontent.com/billowdev/gohexa/main/images/GOHEXA.png)
 
 ## Example golang with Hexagonal Architecture
 
-[Exclusive Golang Hexagonal Architecture GitHub Repository](https://github.com/rapidstellar/exclusive-go-hexa)
+[Exclusive Golang Hexagonal Architecture GitHub Repository](https://github.com/billowdev/exclusive-go-hexa)
 
