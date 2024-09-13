@@ -1,6 +1,12 @@
 
 # Hi there 👋 I'm Akkarapon Phikulsri 
 
+You can call me `LAC`
+
+- L-ogic : Emphasizing the importance of structured and logical thinking in software development.
+- A-lgorithm: Highlighting the critical role of algorithms in creating efficient and effective code.
+- C-ollaboration: Reflecting the need for teamwork and cooperation in engineering projects.
+
 ✅ A software craftsman passionate about exploring new technologies and creating innovative solutions to solve business problems.
 
 ✅ I have a solid foundation in programming languages such as Python Golang and TypeScript, I also have extensive experience working with frameworks and libraries like Nest.js, React, and Redux. My expertise extends to software design patterns, enabling me to develop robust and scalable applications. Knowledge about distributed system Microservices.
