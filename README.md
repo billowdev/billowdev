@@ -23,3 +23,12 @@
 [Exclusive Golang Hexagonal Architecture GitHub Repository](https://github.com/billowdev/exclusive-go-hexa)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=billowdev&label=Glancing&color=0e75b6&style=flat" alt="billowdev" /> </p>
+
+
+<div style="text-align: center;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/billowdev/billowdev/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/billowdev/billowdev/blob/output/github-snake.svg" />
+    <img alt="github-snake" src="https://github.com/billowdev/billowdev/blob/output/ocean.gif" />
+  </picture>
+</div>
