@@ -9,8 +9,12 @@
 
 ✅ I am eager to leverage my skills and dedication to contribute to innovative software solutions.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=billowdev&show_icons=true&hide_border=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=billowdev&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=billowdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=light&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=billowdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=light&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
 
 ## Gohexa Golang RESTful Service CLI
 
