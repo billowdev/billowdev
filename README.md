@@ -3,9 +3,9 @@
 
 You can call me `LAC`
 
-- L-ogic : Emphasizing the importance of structured and logical thinking in software development.
-- A-lgorithm: Highlighting the critical role of algorithms in creating efficient and effective code.
-- C-ollaboration: Reflecting the need for teamwork and cooperation in engineering projects.
+- L-ogic 
+- A-lgorithm
+- C-ollaboration
 
 ✅ A software craftsman passionate about exploring new technologies and creating innovative solutions to solve business problems.
 
