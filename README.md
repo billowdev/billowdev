@@ -15,10 +15,30 @@ You can call me `LAC`
 
 ✅ I am eager to leverage my skills and dedication to contribute to innovative software solutions.
 
-
+<!-- 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=billowdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=light&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=billowdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=light&hide_border=false" height="150" alt="languages graph"  />
+</div> -->
+
+
+<h4 align="center">
+My Activity
+</h4>
+  
+  
+ <!--<h6 align="center"> <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h6>-->
+
+ <div align="center">
+  <a href="http://www.github.com/billowdev"/><img alt="Billowdev Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=billowdev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "80%"/></a>
+  </div>
+  
+ <div align="center">
+<a href="http://www.github.com/billowdev"><img width="80%%" src="https://github-readme-stats.vercel.app/api?username=billowdev&hide=&count_private=true&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="billowdev's GitHub stats" /></a>
+
+
+<div align="center">
+ <a href="http://www.github.com/billowdev"><img alt="Billowdev Top Language"  width = "80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=billowdev&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
 </div>
 
 
@@ -42,3 +62,13 @@ You can call me `LAC`
     <img alt="github-snake" src="https://github.com/billowdev/billowdev/blob/output/ocean.gif" />
   </picture>
 </div>
+
+
+
+
+
+<h3 align="center">Support Me</h3>
+<p align="center">
+<a href="https://www.buymeacoffee.com/akkarapon"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="220"/></a>
+</p>
+
