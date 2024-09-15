@@ -35,16 +35,17 @@ My Activity
  <!--<h6 align="center"> <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h6>-->
 
  <div align="center">
-  <a href="http://www.github.com/billowdev"/><img alt="Billowdev Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=billowdev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "82%"/></a>
+  <a href="http://www.github.com/billowdev"/><img alt="Billowdev Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=billowdev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "69%"/></a>
   </div>
   
  <div align="center">
-<a href="http://www.github.com/billowdev"><img width="51.5%" src="https://github-readme-stats.vercel.app/api?username=billowdev&hide=&count_private=true&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="billowdev's GitHub stats" /></a>
- <a href="http://www.github.com/billowdev"><img alt="Billowdev Top Language"  width = "30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=billowdev&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
 
-<div>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=billowdev&theme=react"  display=block width=82% height=auto  alt="1" >
-</div>
+  <div>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=billowdev&theme=react"  display=block width=69% height=auto  alt="1" >
+  </div>
+  <a href="http://www.github.com/billowdev"><img width="43%" src="https://github-readme-stats.vercel.app/api?username=billowdev&hide=&count_private=true&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="billowdev's GitHub stats" /></a>
+  <a href="http://www.github.com/billowdev"><img alt="Billowdev Top Language"  width = "25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=billowdev&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
+
 </div>
 
 
