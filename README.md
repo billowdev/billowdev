@@ -10,7 +10,7 @@ You can call me `LAC`
 
 - L-ogic 
 - A-lgorithm
-- C-ollaboration
+- C-ode
 
 ✅ A software craftsman passionate about exploring new technologies and creating innovative solutions to solve business problems.
 
