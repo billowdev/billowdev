@@ -1,10 +1,11 @@
 
 # Hi there 👋 I'm Akkarapon Phikulsri 
 
+<!--
 <p align="center">
 <img src="https://github-widgetbox.vercel.app/api/profile?username=billowdev&data=followers,repositories,stars,commits&theme=dark&title_color=000000">
 </p>
-
+-->
 
 You can call me `LAC`
 
