@@ -94,9 +94,9 @@ Prove it don't trust me
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=billowdev&label=Glancing&color=0e75b6&style=flat" alt="billowdev" /> </p>
 
 
-<h3 align="center">A passionate Software Engineer from Thailand.</h3>
+<h3 align="center">A passionate Software Craftsmanship from Thailand.</h3>
 
-- 🔭 I’m currently working on **My Hobbies & minimal api services**
+- 🔭 I’m currently working on ** Some Go package & minimal api services Example in Golang Hexagonal Architecure**
 
 - 🌱 I’m currently learning **Golang C# and Rust**
 
