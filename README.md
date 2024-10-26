@@ -2,11 +2,11 @@
 # Hi there 👋 I'm Akkarapon Phikulsri  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=billowdev&label=Glancing&color=0e75b6&style=flat" alt="billowdev" /> </p>
 
-You can call me **`LAC`** >< :
+You can call me **`LAC`** that is the name that defines what I strive to be and what I aspire to become >< :
 
-- ✨ **L** - Logic & Leverage: Harnessing critical thinking and strategic solutions to tackle challenges.
-- 🔍 **A** - Algorithm & Adaptability: Crafting efficient algorithms while staying versatile in evolving tech landscapes.
-- 💻 **C** - Code & Communication: Writing clean code and ensuring clarity in collaboration.
+- ✨ **L** - Logic & Leverage: Applying critical thinking and strategic solutions to build robust and efficient systems.
+- 🔍 **A** - Algorithm & Adaptability: Designing efficient algorithms while embracing continuous learning and flexibility in evolving tech environments.
+- 💻 **C** - Code & Communication: Crafting clean, maintainable code and ensuring effective collaboration for quality software delivery.
 
 ### About Me
 
