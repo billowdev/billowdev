@@ -30,6 +30,24 @@ You can call me **`LAC`** >< :
 
 - ⚡ Fun fact: **"Prove it, don’t trust me, Krub :)"**
 
+- 🎥 Check out my coding tutorials on my [YouTube channel](https://www.youtube.com/@BillowDev).
+
+ <div align="center">
+<section style="text-align: center; margin: 20px 0;">
+     <a href="https://www.youtube.com/@billowdev" style="text-decoration: none; color: inherit;">
+            <img src="https://raw.githubusercontent.com/billowdev/billowdev/refs/heads/main/images/logo-h.png" alt="BillowDev Logo" style="width: 200px; height: auto; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+        </a>
+    <div style="display: flex; flex-direction: column; align-items: center; margin-top: 20px;">
+        <div style="max-width: 600px; margin-top: 20px; text-align: center;">
+            <p style="font-size: 1rem; line-height: 1.5; color: #333;">
+                One of my hobbies is creating helpful coding tutorials that cover everything from configuration to installation. The main idea behind my channel is that teaching is the best way to learn.
+            </p>
+        </div>
+    </div>
+</section>
+  </div>
+
+
 </div>
 
 ### What Drives Me:
@@ -49,20 +67,6 @@ You can call me **`LAC`** >< :
 - ✅ Knowledgeable in **Machine learning** and passionate about **Digital image processing** & NLP.
 
 
- <div align="center">
-<section style="text-align: center; margin: 20px 0;">
-     <a href="https://www.youtube.com/@billowdev" style="text-decoration: none; color: inherit;">
-            <img src="https://raw.githubusercontent.com/billowdev/billowdev/refs/heads/main/images/logo-h.png" alt="BillowDev Logo" style="width: 200px; height: auto; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
-        </a>
-    <div style="display: flex; flex-direction: column; align-items: center; margin-top: 20px;">
-        <div style="max-width: 600px; margin-top: 20px; text-align: center;">
-            <p style="font-size: 1rem; line-height: 1.5; color: #333;">
-                One of my hobbies is creating helpful coding tutorials that cover everything from configuration to installation. The main idea behind my channel is that teaching is the best way to learn.
-            </p>
-        </div>
-    </div>
-</section>
-  </div>
 
 
 
