@@ -2,35 +2,38 @@
 # Hi there 👋 I'm Akkarapon Phikulsri  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=billowdev&label=Glancing&color=0e75b6&style=flat" alt="billowdev" /> </p>
 
+### About Me
+
 You can call me **`LAC`** that is the name that defines what I strive to be and what I aspire to become >< :
 
 - ✨ **L** - Logic & Leverage: Applying critical thinking and strategic solutions to build robust and efficient systems.
 - 🔍 **A** - Algorithm & Adaptability: Designing efficient algorithms while embracing continuous learning and flexibility in evolving tech environments.
 - 💻 **C** - Code & Communication: Crafting clean, maintainable code and ensuring effective collaboration for quality software delivery.
 
-### About Me
+---
 
-<div>
+### 🧑‍💻 A Software Craftsman
 
-- 💻 **A software craftsman**
-  - Passionate about exploring new technologies and building innovative solutions to solve real-world business problems.
-  - With a diverse set of skills ranging from frontend to backend development, cloud deployments, and microservices architecture, I strive to deliver impactful and scalable solutions.
+- Passionate about exploring new technologies and building innovative solutions to solve real-world business challenges.
+- Skilled across a wide range of areas including frontend and backend development, cloud deployments, and microservices architecture.
+- Focused on delivering impactful, scalable, and efficient solutions.
 
-- 🔭 I’m currently working on **Go packages & minimal API services using Golang Hexagonal Architecture**.
+---
 
-- 🌱 I’m currently learning **Golang, C#, and Rust**.
+### 📌 What I’m Up To
 
-- 👨‍💻 All of my projects are available at [My GitHub repositories](https://github.com/billowdev?tab=repositories).
+- 🔭 **Currently Working On:** Go packages & minimal API services using Golang Hexagonal Architecture.
+- 🌱 **Currently Learning:** Golang, C#, and Rust.
+- 👨‍💻 **My Projects:** Check out [My GitHub Repositories](https://github.com/billowdev?tab=repositories) for all my work.
+- 📝 **Writing Regularly On:** [Medium](https://medium.com/@akkarapon) about software development and best practices.
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@akkarapon).
+---
 
-- 💬 Ask me about **Golang, TypeScript, and Python**.
+### 💬 Connect With Me
 
-- 📫 How to reach me: **akkarapon.ph@gmail.com**
-
-- ⚡ Fun fact: **"Prove it, don’t trust me, Krub :)"**
-
-- 🎥 Check out my coding tutorials on my [YouTube channel](https://www.youtube.com/@BillowDev).
+- 💬 **Ask Me About:** Golang, TypeScript, and Python.
+- 📫 **Contact:** [akkarapon.ph@gmail.com](mailto:akkarapon.ph@gmail.com)
+- 🎥 **YouTube Channel:** Watch my coding tutorials on [BillowDev](https://www.youtube.com/@BillowDev).
 
  <div align="center">
 <section style="text-align: center; margin: 20px 0;">
@@ -40,15 +43,20 @@ You can call me **`LAC`** that is the name that defines what I strive to be and 
     <div style="display: flex; flex-direction: column; align-items: center; margin-top: 20px;">
         <div style="max-width: 600px; margin-top: 20px; text-align: center;">
             <p style="font-size: 1rem; line-height: 1.5; color: #333;">
-                One of my hobbies is creating helpful coding tutorials that cover everything from configuration to installation. The main idea behind my channel is that teaching is the best way to learn.
-            </p>
+One of my hobbies is creating coding tutorials that guide viewers through everything from configuration to installation. My channel is built on the philosophy that teaching is the best way to learn.            </p>
         </div>
     </div>
 </section>
   </div>
 
 
-</div>
+
+---
+
+### ⚡ Fun Fact
+
+- **"Prove it, don’t trust me."**
+- rather than taking someone's word for something at face value, it's important to verify the information through evidence or experimentation. It emphasizes the importance of proof and encourages critical thinking, self-validation, and an empirical approach to learning or understanding something.
 
 ### What Drives Me:
 - 📚 I pride myself on my adaptability and eagerness to learn, traits that help me thrive in challenging projects and stay ahead of technological trends.
