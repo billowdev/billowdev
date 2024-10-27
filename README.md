@@ -73,7 +73,7 @@ One of my hobbies is creating coding tutorials that guide viewers through everyt
 
 ### What Drives Me:
 - 📚 I pride myself on my adaptability and eagerness to learn, traits that help me thrive in challenging projects and stay ahead of technological trends.
-- 🚀 I’m always looking for opportunities to leverage my skills and dedication to contribute to impactful software solutions.
+<!-- - 🚀 I’m always looking for opportunities to leverage my skills and dedication to contribute to impactful software solutions. -->
 
 
 
