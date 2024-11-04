@@ -68,6 +68,9 @@ One of my hobbies is creating coding tutorials that guide viewers through everyt
 
 ### ⚡ Fun Fact
 
+- **รจนา ละมุนพันธ์ นั้นต้องศิลป์ ทรงจินตะ อิงตรรกะ เป็นอาจิน**
+- **"Crafting software requires artistry, guided by imagination, grounded in logic, endlessly enduring**
+- **ลองดูครับ อย่าเชื่อผม ><**
 - **"Prove it, don’t trust me."**
 - rather than taking someone's word for something at face value, it's important to verify the information through evidence or experimentation. It emphasizes the importance of proof and encourages critical thinking, self-validation, and an empirical approach to learning or understanding something.
 
@@ -174,4 +177,5 @@ My Activity
 
 
 <div align="center">
+
 
