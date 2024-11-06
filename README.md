@@ -178,4 +178,13 @@ My Activity
 
 <div align="center">
 
+# Synonymous - Essence of Simplicity
 
+| Ordinary   | Innocent    | Curious     | Perspective | Humility   |
+|------------|-------------|-------------|-------------|------------|
+| Wonder     | Reflection  | Acceptance  | Growth      | Fortune    |
+| Journey    | Truth       | Essence     | Patience    | Resilience |
+| Mindful    | Realness    | Experience  | Wisdom      | Simplicity |
+| Balance    | Faith       | Openness    | Intuition   | Kindness   |
+| Unity      | Empathy     | Honesty     | Belief      | Insight    |
+</div>
