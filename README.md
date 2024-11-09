@@ -70,7 +70,7 @@ One of my hobbies is creating coding tutorials that guide viewers through everyt
 
 <p align="center">
     <a href="https://github.com/billowdev" target="_blank">
-        <img src="https://github.com/billowdev/billowdev/blob/main/images/ami-fat-cat.gif?raw=true" width="120" height="120" alt="The ami fat cat">
+        <img src="https://github.com/billowdev/billowdev/blob/main/images/ami-confiden.gif?raw=true" width="120" height="120" alt="The ami fat cat">
     </a>
 </p>
 
@@ -130,6 +130,12 @@ My Activity
 </p>
 
 <h2 align="center">✍️ Prove it don't trust me </h2>
+
+<p align="center">
+    <a href="https://github.com/billowdev" target="_blank">
+        <img src="https://github.com/billowdev/billowdev/blob/main/images/ami-thinking.gif?raw=true" width="120" height="120" alt="The ami fat cat">
+    </a>
+</p>
 
 
 <div>
