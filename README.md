@@ -75,7 +75,7 @@ One of my hobbies is creating coding tutorials that guide viewers through everyt
 </p>
 
 
-- **รจนา ละมุนพันธ์ นั้นต้องศิลป์ ทรงจินตะ อิงตรรกะ เป็นอาจิน**
+- **รจนา ละมุนภัณฑ์ นั้นต้องศิลป์ ทรงจินตะ อิงตรรกะ เป็นอาจิน**
 - **"Crafting software requires artistry, guided by imagination, grounded in logic, endlessly enduring**
 - **ลองดูครับ อย่าเชื่อผม ><**
 - **"Prove it, don’t trust me."**
