@@ -105,6 +105,11 @@ One of my hobbies is creating coding tutorials that guide viewers through everyt
 My Activity
 </h4>
   
+<p align="center">
+    <a href="https://github.com/billowdev" target="_blank">
+        <img src="https://github.com/billowdev/billowdev/blob/main/images/ami-thinking.gif?raw=true" width="120" height="120" alt="The ami fat cat">
+    </a>
+</p>
 
 
  <!--<h6 align="center"> <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h6>-->
@@ -133,9 +138,10 @@ My Activity
 
 <p align="center">
     <a href="https://github.com/billowdev" target="_blank">
-        <img src="https://github.com/billowdev/billowdev/blob/main/images/ami-thinking.gif?raw=true" width="120" height="120" alt="The ami fat cat">
+        <img src="https://github.com/billowdev/billowdev/blob/main/images/ami-smile.gif?raw=true" width="120" height="120" alt="The ami fat cat">
     </a>
 </p>
+
 
 
 <div>
