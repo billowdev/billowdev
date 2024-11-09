@@ -131,7 +131,7 @@ My Activity
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/billowdev/billowdev/refs/heads/main/profile-3d-contrib/profile-green-animate.svg" alt="Contribution" width="500" />
+  <img src="https://raw.githubusercontent.com/billowdev/billowdev/refs/heads/main/profile-3d-contrib/profile-night-green.svg" alt="Contribution" width="68%" />
 </p>
 
 <h2 align="center">✍️ Prove it don't trust me </h2>
