@@ -68,6 +68,13 @@ One of my hobbies is creating coding tutorials that guide viewers through everyt
 
 ### ⚡ Fun Fact
 
+<p align="center">
+    <a href="https://github.com/billowdev" target="_blank">
+        <img src="https://github.com/billowdev/billowdev/blob/main/images/ami-fat-cat.gif?raw=true" width="120" height="120" alt="The ami fat cat">
+    </a>
+</p>
+
+
 - **รจนา ละมุนพันธ์ นั้นต้องศิลป์ ทรงจินตะ อิงตรรกะ เป็นอาจิน**
 - **"Crafting software requires artistry, guided by imagination, grounded in logic, endlessly enduring**
 - **ลองดูครับ อย่าเชื่อผม ><**
