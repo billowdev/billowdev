@@ -11,7 +11,7 @@ You can call me **`LAC`** that is the name that defines what I strive to be and 
 - 💻 **C** - Code & Communication: Crafting clean, maintainable code and ensuring effective collaboration for quality software delivery.
 
 <p align="center">
-  <a href="https://www.billowdev.com">
+  <a href="https://www.billowdev.com" target="_blank">
     <img src="https://raw.githubusercontent.com/billowdev/billowdev/refs/heads/main/images/me-avartar.png" alt="Contribution" width="100%" />
   </a>
 </p>
