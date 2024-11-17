@@ -10,6 +10,10 @@ You can call me **`LAC`** that is the name that defines what I strive to be and 
 - 🔍 **A** - Algorithm & Adaptability: Designing efficient algorithms while embracing continuous learning and flexibility in evolving tech environments.
 - 💻 **C** - Code & Communication: Crafting clean, maintainable code and ensuring effective collaboration for quality software delivery.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/billowdev/billowdev/refs/heads/main/images/me-avartar.png" alt="Contribution" width="100%" />
+</p>
+
 ---
 
 ### 🧑‍💻 A Software Craftsman
