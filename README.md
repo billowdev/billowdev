@@ -75,11 +75,7 @@ One of my hobbies is creating coding tutorials that guide viewers through everyt
 </p>
 
 
-- **รจนา ละมุนภัณฑ์ นั้นต้องศิลป์ ทรงจินตะ อิงตรรกะ เป็นอาจิน**
 - **"Crafting software requires artistry, guided by imagination, grounded in logic, endlessly enduring**
-- **ลองดูครับ อย่าเชื่อผม ><**
-- **"Prove it, don’t trust me."**
-- rather than taking someone's word for something at face value, it's important to verify the information through evidence or experimentation. It emphasizes the importance of proof and encourages critical thinking, self-validation, and an empirical approach to learning or understanding something.
 
 ### What Drives Me:
 - 📚 I pride myself on my adaptability and eagerness to learn, traits that help me thrive in challenging projects and stay ahead of technological trends.
@@ -129,12 +125,11 @@ My Activity
   <a href="http://www.github.com/billowdev"><img alt="Billowdev Top Language"  width = "25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=billowdev&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
 
 </div>
-
+<!-- 
 <p align="center">
   <img src="https://raw.githubusercontent.com/billowdev/billowdev/refs/heads/main/profile-3d-contrib/profile-night-green.svg" alt="Contribution" width="68%" />
-</p>
+</p> -->
 
-<h2 align="center">✍️ Prove it don't trust me </h2>
 
 <p align="center">
     <a href="https://github.com/billowdev" target="_blank">
