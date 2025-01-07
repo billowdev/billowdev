@@ -110,10 +110,10 @@ My Activity
 
  <!--<h6 align="center"> <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h6>-->
 
- <div align="center">
+ <!-- <div align="center">
   <a href="http://www.github.com/billowdev"/><img alt="Billowdev Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=billowdev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "69%"/></a>
   </div>
-  
+   -->
  <div align="center">
 
   <div>
@@ -187,7 +187,7 @@ My Activity
 
 <br />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=billowdev" alt="billowdev" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=billowdev" alt="billowdev" /></a> </p> -->
 
 
 <div align="center">
