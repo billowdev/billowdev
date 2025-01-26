@@ -30,7 +30,23 @@ You can call me **`LAC`** that is the name that defines what I strive to be and 
 ---
 
 ### 🛠️ Contributions
-- [![FastMap](https://img.shields.io/badge/FastMap-golang-00ADD8?style=flat&logo=go)](https://github.com/billowdev/fastmap)
+
+##### [![FastMap](https://img.shields.io/badge/FastMap-Generic_HashMap_Implementation-00ADD8?style=for-the-badge&logo=go)](https://github.com/billowdev/fastmap)
+
+- A type-safe generic HashMap implementation offering both thread-safe and non-thread-safe variants.
+
+##### [![Clog](https://img.shields.io/badge/Clog-Custom_Logger_Package-00ADD8?style=for-the-badge&logo=go)](https://github.com/billowdev/clog)
+  
+- A powerful, colorful, and feature-rich logging package that provides enhanced logging capabilities with emoji indicators, color-coded output, and comprehensive debugging features.
+
+
+##### [![GoHexa](https://img.shields.io/badge/GoHexa-Hexagonal_Architecture_Template-00ADD8?style=for-the-badge&logo=go)](https://github.com/billowdev/gohexa)
+  
+- A comprehensive template implementing the Hexagonal Architecture pattern in Go.
+
+##### [![Pagi](https://img.shields.io/badge/Pagi-Pagination_Utility-00ADD8?style=for-the-badge&logo=go)](https://github.com/billowdev/pagi)
+  
+- pagi is a Go package designed to simplify pagination in your applications. It provides utility functions and types to handle pagination parameters, sorting, filtering, and generating pagination links.
 
 ---
 
