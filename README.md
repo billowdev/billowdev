@@ -29,6 +29,11 @@ You can call me **`LAC`** that is the name that defines what I strive to be and 
 
 ---
 
+### 🛠️ Contributions
+- [![FastMap](https://img.shields.io/badge/FastMap-golang-00ADD8?style=flat&logo=go)](https://github.com/billowdev/fastmap)
+
+---
+
 ### 💬 Connect With Me
 
 - 💬 **Ask Me About:** Golang, TypeScript, and Python.
