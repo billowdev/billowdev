@@ -224,8 +224,4 @@ My Activity
 | Unity      | Empathy     | Honesty     | Belief      | Insight    |
 </div>
 
-<p align="center">
-  <a href="https://www.billowdev.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/billowdev/billowdev/refs/heads/main/images/me-avartar.png" alt="Contribution" width="100%" />
-  </a>
-</p>
+
