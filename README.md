@@ -1,4 +1,4 @@
-*# Hi there 👋 I'm Akkarapon Phikulsri  
+# Hi there 👋 I'm Akkarapon Phikulsri  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=billowdev&label=Glancing&color=0e75b6&style=flat" alt="billowdev" /> </p>
 
 ### About Me
@@ -160,5 +160,3 @@ Activity
 | Unity      | Empathy     | Honesty     | Belief      | Insight    |
 </div>
 
-
-*
