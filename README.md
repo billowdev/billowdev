@@ -1,5 +1,4 @@
-
-# Hi there 👋 I'm Akkarapon Phikulsri  
+*# Hi there 👋 I'm Akkarapon Phikulsri  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=billowdev&label=Glancing&color=0e75b6&style=flat" alt="billowdev" /> </p>
 
 ### About Me
@@ -27,26 +26,6 @@ You can call me **`LAC`** that is the name that defines what I strive to be and 
 - 👨‍💻 **My Projects:** Check out [My GitHub Repositories](https://github.com/billowdev?tab=repositories) for all my work.
 - 📝 **Writing Regularly On:** [Medium](https://medium.com/@akkarapon) about software development and best practices.
 
----
-
-### 🛠️ Contributions
-
-##### [![FastMap](https://img.shields.io/badge/FastMap-Generic_HashMap_Implementation-00ADD8?style=for-the-badge&logo=go)](https://github.com/billowdev/fastmap)
-
-- A type-safe generic HashMap implementation offering both thread-safe and non-thread-safe variants.
-
-##### [![Clog](https://img.shields.io/badge/Clog-Custom_Logger_Package-00ADD8?style=for-the-badge&logo=go)](https://github.com/billowdev/clog)
-  
-- A powerful, colorful, and feature-rich logging package that provides enhanced logging capabilities with emoji indicators, color-coded output, and comprehensive debugging features.
-
-
-##### [![GoHexa](https://img.shields.io/badge/GoHexa-Hexagonal_Architecture_Template-00ADD8?style=for-the-badge&logo=go)](https://github.com/billowdev/gohexa)
-  
-- A comprehensive template implementing the Hexagonal Architecture pattern in Go.
-
-##### [![Pagi](https://img.shields.io/badge/Pagi-Pagination_Utility-00ADD8?style=for-the-badge&logo=go)](https://github.com/billowdev/pagi)
-  
-- pagi is a Go package designed to simplify pagination in your applications. It provides utility functions and types to handle pagination parameters, sorting, filtering, and generating pagination links.
 
 ---
 
@@ -74,26 +53,21 @@ You can call me **`LAC`** that is the name that defines what I strive to be and 
      <a href="https://www.youtube.com/@billowdev" style="text-decoration: none; color: inherit;">
             <img src="https://raw.githubusercontent.com/billowdev/billowdev/refs/heads/main/images/logo-h.png" alt="BillowDev Logo" style="width: 200px; height: auto; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
         </a>
-    <div style="display: flex; flex-direction: column; align-items: center; margin-top: 20px;">
-        <div style="max-width: 600px; margin-top: 20px; text-align: center;">
-            <p style="font-size: 1rem; line-height: 1.5; color: #333;">
-One of my hobbies is creating coding tutorials that guide viewers through everything from configuration to installation. My channel is built on the philosophy that teaching is the best way to learn.            </p>
-        </div>
-    </div>
+</section>
+
+<section style="text-align: center; margin: 20px 0;">
+     <a href="https://www.youtube.com/@billowdev" style="text-decoration: none; color: inherit;">
+            <img src="https://raw.githubusercontent.com/billowdev/billowdev/refs/heads/main/images/TRR-LOGO.png" alt="The Refactor Room Logo" style="width: 200px; height: auto; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+        </a>
 </section>
   </div>
 
-
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=a351da331073&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+<a href="https://www.buymeacoffee.com/akkarapon"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="220"/></a>
 
 ---
 
 ### ⚡ Fun Fact
-
-<p align="center">
-    <a href="https://github.com/billowdev" target="_blank">
-        <img src="https://github.com/billowdev/billowdev/blob/main/images/ami-confiden.gif?raw=true" width="120" height="120" alt="The ami fat cat">
-    </a>
-</p>
 
 
 
@@ -108,37 +82,13 @@ I thrive on challenges, constantly adapt to new technologies, and strive to cont
 
 
 
-### What I Do:
-- ✅ Experienced in backend development using **Golang & Fiber**, **Python & Django**, **Node.js** (Fastify, Express),  and **PHP Laravel**.
-- ✅ Proficient with frontend frameworks like **React**, **Next.js**, **Redux Toolkit**, **Angular**, and **Nest.js**.
-- ✅ Strong understanding of **software design patterns**, **Object-Oriented Analysis and Design (OOAD)**, **microservices architecture**, **clean architecture**, and **hexagonal architecture** for creating scalable and efficient systems.
-- ✅ Skilled in **HTML**, **CSS**, and **JavaScript** for building responsive and interactive web interfaces.
-- ✅ Adept in **cloud platforms** such as **AWS** and **Azure**, along with **Docker**, **Git**, and **gRPC** for continuous integration and communication between services.
-- ✅ Skilled in **API documentation**, **system analysis & design**, and **mobile app development** using **Dart & Flutter**.
-- ✅ Experienced in **Web API development** with **C#** and reverse engineering small modules.
-- ✅ Knowledgeable in **Machine learning** and passionate about **Digital image processing** & NLP.
-
-
-
-
 
 <h4 align="center">
-My Activity
+Activity
 </h4>
   
-<p align="center">
-    <a href="https://github.com/billowdev" target="_blank">
-        <img src="https://github.com/billowdev/billowdev/blob/main/images/ami-thinking.gif?raw=true" width="120" height="120" alt="The ami fat cat">
-    </a>
-</p>
 
 
- <!--<h6 align="center"> <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h6>-->
-
- <!-- <div align="center">
-  <a href="http://www.github.com/billowdev"/><img alt="Billowdev Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=billowdev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "69%"/></a>
-  </div>
-   -->
  <div align="center">
 
   <div>
@@ -175,17 +125,6 @@ My Activity
 
 <div align="center">
 
-## GOHEXA Golang RESTful Service CLI
-
-[GOHEXA GitHub Repository](https://github.com/rapidstellar/gohexa)
-
-![GoHexa](https://raw.githubusercontent.com/billowdev/gohexa/main/images/GOHEXA.png)
-
-## Example golang with Hexagonal Architecture
-
-[Exclusive Golang Hexagonal Architecture GitHub Repository](https://github.com/billowdev/exclusive-go-hexa)
-
-
 
 <div style="text-align: center;">
   <picture>
@@ -195,13 +134,6 @@ My Activity
   </picture>
 </div>
 </div>
-
-
-
-<h3 align="center">Support Me</h3>
-<p align="center">
-<a href="https://www.buymeacoffee.com/akkarapon"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="220"/></a>
-</p>
 
 
 
@@ -229,3 +161,4 @@ My Activity
 </div>
 
 
+*
