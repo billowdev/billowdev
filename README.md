@@ -55,11 +55,11 @@ You can call me **`LAC`** that is the name that defines what I strive to be and 
         </a>
 </section>
 
-<section style="text-align: center; margin: 20px 0;">
+<!-- <section style="text-align: center; margin: 20px 0;">
      <a href="https://www.youtube.com/@therefactorroom" style="text-decoration: none; color: inherit;">
             <img src="https://raw.githubusercontent.com/billowdev/billowdev/refs/heads/main/images/TRR-LOGO.png" alt="The Refactor Room Logo" style="width: 200px; height: auto; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
         </a>
-</section>
+</section> -->
   </div>
 
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=a351da331073&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
