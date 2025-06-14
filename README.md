@@ -1,8 +1,6 @@
 # Hi there 👋 I'm Akkarapon Phikulsri  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akkaraponph&label=Glancing&color=0e75b6&style=flat" alt="akkaraponph" /> </p>
 
-
-
 ## 🧑‍💻 A Software Craftsman
 
 - Passionate about exploring new technologies and building innovative solutions to solve real-world business challenges.
@@ -10,6 +8,81 @@
 - Focused on delivering impactful, scalable, and efficient solutions.
 
 ---
+
+
+```mermaid
+flowchart LR
+    A[🎨 Software Craftsmanship] --> B[🎯 Expertise]
+    A --> C[🛠️ Tech Stack]
+    A --> D[🚀 Projects]
+    
+    B --> E[⚡ Performance Optimization]
+    B --> F[🏗️ Scalable Architecture]
+    B --> G[💡 Problem Solving]
+    
+    C --> H[🎨 Frontend]
+    C --> I[⚙️ Backend]
+    C --> J[☁️ DevOps]
+    C --> K[🗄️ Database]
+    
+    H --> L[Next.js • Redux • TypeScript]
+    I --> M[Golang • C# • Python]
+    J --> N[Docker • AWS • Kubernetes]
+    K --> O[PostgreSQL • MongoDB • Redis]
+    
+    D --> P[🌐 Web Applications]
+    D --> Q[🔗 Microservices]
+    D --> R[📱 Mobile Apps]
+    D --> S[🤖 API Development]
+    
+    E --> T[📊 Monitoring & Analytics]
+    F --> U[🔄 CI/CD Pipelines]
+    G --> V[🧪 Testing & Quality]
+    
+    P --> W[💼 Business Solutions]
+    Q --> X[🎯 High Availability]
+    R --> Y[📱 Cross-Platform]
+    S --> Z[🔗 RESTful & GraphQL]
+
+    %% GitHub-optimized styling
+    style A fill:#0969da,stroke:#0550ae,stroke-width:4px,color:#ffffff
+    
+    style B fill:#7c3aed,stroke:#6d28d9,stroke-width:3px,color:#ffffff
+    style C fill:#059669,stroke:#047857,stroke-width:3px,color:#ffffff
+    style D fill:#f59e0b,stroke:#d97706,stroke-width:3px,color:#ffffff
+    
+    style E fill:#8b5cf6,stroke:#7c3aed,stroke-width:2px,color:#ffffff
+    style F fill:#a855f7,stroke:#9333ea,stroke-width:2px,color:#ffffff
+    style G fill:#6366f1,stroke:#4f46e5,stroke-width:2px,color:#ffffff
+    
+    style H fill:#16a34a,stroke:#15803d,stroke-width:2px,color:#ffffff
+    style I fill:#059669,stroke:#047857,stroke-width:2px,color:#ffffff
+    style J fill:#0891b2,stroke:#0e7490,stroke-width:2px,color:#ffffff
+    style K fill:#0d9488,stroke:#0f766e,stroke-width:2px,color:#ffffff
+    
+    style L fill:#22c55e,stroke:#16a34a,stroke-width:1px,color:#ffffff
+    style M fill:#10b981,stroke:#059669,stroke-width:1px,color:#ffffff
+    style N fill:#06b6d4,stroke:#0891b2,stroke-width:1px,color:#ffffff
+    style O fill:#14b8a6,stroke:#0d9488,stroke-width:1px,color:#ffffff
+    
+    style P fill:#f97316,stroke:#ea580c,stroke-width:2px,color:#ffffff
+    style Q fill:#f59e0b,stroke:#d97706,stroke-width:2px,color:#ffffff
+    style R fill:#eab308,stroke:#ca8a04,stroke-width:2px,color:#ffffff
+    style S fill:#d97706,stroke:#b45309,stroke-width:2px,color:#ffffff
+    
+    style T fill:#c084fc,stroke:#a855f7,stroke-width:1px,color:#ffffff
+    style U fill:#d8b4fe,stroke:#c084fc,stroke-width:1px,color:#ffffff
+    style V fill:#93c5fd,stroke:#3b82f6,stroke-width:1px,color:#ffffff
+    
+    style W fill:#fb923c,stroke:#f97316,stroke-width:1px,color:#ffffff
+    style X fill:#fbbf24,stroke:#f59e0b,stroke-width:1px,color:#ffffff
+    style Y fill:#facc15,stroke:#eab308,stroke-width:1px,color:#ffffff
+    style Z fill:#fb7185,stroke:#f43f5e,stroke-width:1px,color:#ffffff
+    
+    %% Clean link styling
+    linkStyle default stroke:#6b7280,stroke-width:2px
+```
+
 
 
 <!--START_SECTION:waka-->
@@ -83,6 +156,7 @@ Activity
 <br />
 
 ---
+
 
 ## ♾️ Workflows
 
