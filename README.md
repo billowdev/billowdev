@@ -11,6 +11,80 @@
 
 ---
 
+### Lifeflows
+
+```mermaid
+flowchart TD
+    A[🚀 Live/Production] --> B[💻 Code]
+    B --> C{🐛 Bug Found?}
+    C -->|Yes| D[🔧 Fix Bug]
+    C -->|No| E[✅ Deploy]
+    D --> F[🔄 Restart]
+    F --> G{💡 Worth Refactoring?}
+    G -->|Yes| H[♻️ Refactor]
+    G -->|No| I[📋 Document & Move On]
+    H --> J[🧪 Test Refactored Code]
+    J --> K{✓ Tests Pass?}
+    K -->|Yes| E
+    K -->|No| D
+    E --> L[🎉 Success]
+    I --> L
+    L --> A
+    
+    style A fill:#e1f5fe
+    style B fill:#f3e5f5
+    style D fill:#ffebee
+    style H fill:#e8f5e8
+    style L fill:#fff3e0
+```
+
+## Fun Fact
+
+```mermaid
+flowchart TD
+    A[😴 It was working yesterday] --> B[🔍 Read Error Message]
+    B --> C{🤔 Makes Sense?}
+    C -->|Yes| D[🛠️ Quick Fix]
+    C -->|No| E[🦆 Rubber Duck Debug]
+    D --> F{✅ Fixed?}
+    F -->|Yes| G[🎉 Victory Dance]
+    F -->|No| H[😤 This is impossible]
+    E --> I[💡 Eureka Moment]
+    I --> J[🔨 Implement Fix]
+    H --> K[📚 Stack Overflow]
+    K --> L{🎯 Found Solution?}
+    L -->|Yes| M[📋 Copy and Paste]
+    L -->|No| N[😢 GitHub Issues]
+    M --> O{🧪 Works Now?}
+    O -->|Yes| P[😅 I knew that]
+    O -->|No| Q[🤯 Existential Crisis]
+    N --> R[👥 Ask for Help]
+    Q --> S[☕ Coffee Break]
+    S --> T[🧘 Fresh Eyes]
+    T --> U[🔍 Git Blame Check]
+    U --> V[😈 I wrote this mess]
+    V --> W[🔄 Rewrite Everything]
+    J --> F
+    R --> X{💬 Got Help?}
+    X -->|Yes| Y[🤝 Pair Debug]
+    X -->|No| Z[🌙 Sleep on It]
+    Y --> F
+    Z --> AA[🌅 Morning Clarity]
+    AA --> B
+    W --> F
+    P --> G
+    G --> AB[📝 Document It]
+    AB --> AC[🔄 Next Bug]
+    AC --> A
+
+    style A fill:#ffebee
+    style G fill:#e8f5e8
+    style P fill:#e8f5e8
+    style Q fill:#fce4ec
+    style S fill:#f3e5f5
+    style V fill:#fff3e0
+    style AA fill:#e1f5fe
+```
 
 <!--START_SECTION:waka-->
 
