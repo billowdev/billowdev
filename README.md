@@ -31,11 +31,36 @@ flowchart TD
     I --> L
     L --> A
     
-    style A fill:#e1f5fe
-    style B fill:#f3e5f5
-    style D fill:#ffebee
-    style H fill:#e8f5e8
-    style L fill:#fff3e0
+    %% Enhanced styling with eye-friendly colors
+    style A fill:#2563eb,stroke:#1d4ed8,stroke-width:3px,color:#ffffff
+    style B fill:#7c3aed,stroke:#6d28d9,stroke-width:2px,color:#ffffff
+    style C fill:#0891b2,stroke:#0e7490,stroke-width:2px,color:#ffffff
+    style D fill:#f59e0b,stroke:#d97706,stroke-width:2px,color:#ffffff
+    style E fill:#16a34a,stroke:#15803d,stroke-width:2px,color:#ffffff
+    style F fill:#06b6d4,stroke:#0891b2,stroke-width:2px,color:#ffffff
+    style G fill:#8b5cf6,stroke:#7c3aed,stroke-width:2px,color:#ffffff
+    style H fill:#059669,stroke:#047857,stroke-width:2px,color:#ffffff
+    style I fill:#6b7280,stroke:#4b5563,stroke-width:2px,color:#ffffff
+    style J fill:#a855f7,stroke:#9333ea,stroke-width:2px,color:#ffffff
+    style K fill:#0d9488,stroke:#0f766e,stroke-width:2px,color:#ffffff
+    style L fill:#ca8a04,stroke:#a16207,stroke-width:3px,color:#ffffff
+    
+    %% Link styling with softer colors
+    linkStyle default stroke:#374151,stroke-width:2px
+    linkStyle 0 stroke:#3b82f6,stroke-width:3px
+    linkStyle 1 stroke:#06b6d4,stroke-width:2px
+    linkStyle 2 stroke:#22c55e,stroke-width:2px
+    linkStyle 3 stroke:#f97316,stroke-width:2px
+    linkStyle 4 stroke:#06b6d4,stroke-width:2px
+    linkStyle 5 stroke:#10b981,stroke-width:2px
+    linkStyle 6 stroke:#6b7280,stroke-width:2px
+    linkStyle 7 stroke:#059669,stroke-width:2px
+    linkStyle 8 stroke:#0d9488,stroke-width:2px
+    linkStyle 9 stroke:#22c55e,stroke-width:2px
+    linkStyle 10 stroke:#0891b2,stroke-width:2px
+    linkStyle 11 stroke:#f59e0b,stroke-width:3px
+    linkStyle 12 stroke:#f59e0b,stroke-width:3px
+    linkStyle 13 stroke:#3b82f6,stroke-width:3px
 ```
 
 ## Fun Fact
@@ -51,7 +76,7 @@ flowchart TD
     F -->|No| H[😤 This is impossible]
     E --> I[💡 Eureka Moment]
     I --> J[🔨 Implement Fix]
-    H --> K[📚 Stack Overflow]
+    H --> K[📚 Stack Overflow / Ask AI]
     K --> L{🎯 Found Solution?}
     L -->|Yes| M[📋 Copy and Paste]
     L -->|No| N[😢 GitHub Issues]
@@ -77,13 +102,70 @@ flowchart TD
     AB --> AC[🔄 Next Bug]
     AC --> A
 
-    style A fill:#ffebee
-    style G fill:#e8f5e8
-    style P fill:#e8f5e8
-    style Q fill:#fce4ec
-    style S fill:#f3e5f5
-    style V fill:#fff3e0
-    style AA fill:#e1f5fe
+    %% Enhanced eye-friendly styling
+    style A fill:#6366f1,stroke:#4f46e5,stroke-width:2px,color:#ffffff
+    style B fill:#7c3aed,stroke:#6d28d9,stroke-width:2px,color:#ffffff
+    style C fill:#0891b2,stroke:#0e7490,stroke-width:2px,color:#ffffff
+    style D fill:#f59e0b,stroke:#d97706,stroke-width:2px,color:#ffffff
+    style E fill:#06b6d4,stroke:#0891b2,stroke-width:2px,color:#ffffff
+    style F fill:#0d9488,stroke:#0f766e,stroke-width:2px,color:#ffffff
+    style G fill:#16a34a,stroke:#15803d,stroke-width:3px,color:#ffffff
+    style H fill:#f97316,stroke:#ea580c,stroke-width:2px,color:#ffffff
+    style I fill:#a855f7,stroke:#9333ea,stroke-width:2px,color:#ffffff
+    style J fill:#059669,stroke:#047857,stroke-width:2px,color:#ffffff
+    style K fill:#8b5cf6,stroke:#7c3aed,stroke-width:2px,color:#ffffff
+    style L fill:#0891b2,stroke:#0e7490,stroke-width:2px,color:#ffffff
+    style M fill:#6366f1,stroke:#4f46e5,stroke-width:2px,color:#ffffff
+    style N fill:#64748b,stroke:#475569,stroke-width:2px,color:#ffffff
+    style O fill:#0d9488,stroke:#0f766e,stroke-width:2px,color:#ffffff
+    style P fill:#16a34a,stroke:#15803d,stroke-width:2px,color:#ffffff
+    style Q fill:#a855f7,stroke:#9333ea,stroke-width:2px,color:#ffffff
+    style R fill:#06b6d4,stroke:#0891b2,stroke-width:2px,color:#ffffff
+    style S fill:#8b5cf6,stroke:#7c3aed,stroke-width:2px,color:#ffffff
+    style T fill:#059669,stroke:#047857,stroke-width:2px,color:#ffffff
+    style U fill:#f59e0b,stroke:#d97706,stroke-width:2px,color:#ffffff
+    style V fill:#f97316,stroke:#ea580c,stroke-width:2px,color:#ffffff
+    style W fill:#7c3aed,stroke:#6d28d9,stroke-width:2px,color:#ffffff
+    style X fill:#0891b2,stroke:#0e7490,stroke-width:2px,color:#ffffff
+    style Y fill:#16a34a,stroke:#15803d,stroke-width:2px,color:#ffffff
+    style Z fill:#64748b,stroke:#475569,stroke-width:2px,color:#ffffff
+    style AA fill:#06b6d4,stroke:#0891b2,stroke-width:2px,color:#ffffff
+    style AB fill:#059669,stroke:#047857,stroke-width:2px,color:#ffffff
+    style AC fill:#6366f1,stroke:#4f46e5,stroke-width:2px,color:#ffffff
+    
+    %% Link styling with soft colors
+    linkStyle default stroke:#374151,stroke-width:2px
+    linkStyle 0 stroke:#7c3aed,stroke-width:2px
+    linkStyle 1 stroke:#0891b2,stroke-width:2px
+    linkStyle 2 stroke:#f59e0b,stroke-width:2px
+    linkStyle 3 stroke:#06b6d4,stroke-width:2px
+    linkStyle 4 stroke:#16a34a,stroke-width:2px
+    linkStyle 5 stroke:#f97316,stroke-width:2px
+    linkStyle 6 stroke:#a855f7,stroke-width:2px
+    linkStyle 7 stroke:#059669,stroke-width:2px
+    linkStyle 8 stroke:#8b5cf6,stroke-width:2px
+    linkStyle 9 stroke:#6366f1,stroke-width:2px
+    linkStyle 10 stroke:#64748b,stroke-width:2px
+    linkStyle 11 stroke:#0d9488,stroke-width:2px
+    linkStyle 12 stroke:#16a34a,stroke-width:2px
+    linkStyle 13 stroke:#a855f7,stroke-width:2px
+    linkStyle 14 stroke:#06b6d4,stroke-width:2px
+    linkStyle 15 stroke:#8b5cf6,stroke-width:2px
+    linkStyle 16 stroke:#059669,stroke-width:2px
+    linkStyle 17 stroke:#f59e0b,stroke-width:2px
+    linkStyle 18 stroke:#f97316,stroke-width:2px
+    linkStyle 19 stroke:#7c3aed,stroke-width:2px
+    linkStyle 20 stroke:#0d9488,stroke-width:2px
+    linkStyle 21 stroke:#16a34a,stroke-width:2px
+    linkStyle 22 stroke:#64748b,stroke-width:2px
+    linkStyle 23 stroke:#0d9488,stroke-width:2px
+    linkStyle 24 stroke:#06b6d4,stroke-width:2px
+    linkStyle 25 stroke:#7c3aed,stroke-width:2px
+    linkStyle 26 stroke:#0d9488,stroke-width:2px
+    linkStyle 27 stroke:#16a34a,stroke-width:2px
+    linkStyle 28 stroke:#059669,stroke-width:2px
+    linkStyle 29 stroke:#6366f1,stroke-width:2px
+    linkStyle 30 stroke:#6366f1,stroke-width:2px
 ```
 
 <!--START_SECTION:waka-->
