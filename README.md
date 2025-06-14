@@ -3,7 +3,7 @@
 
 
 
-### 🧑‍💻 A Software Craftsman
+## 🧑‍💻 A Software Craftsman
 
 - Passionate about exploring new technologies and building innovative solutions to solve real-world business challenges.
 - Skilled across a wide range of areas including frontend and backend development, cloud deployments, and microservices architecture.
@@ -11,7 +11,7 @@
 
 ---
 
-## 👨‍💻Workflows
+## ♾️ Workflows
 
 ```mermaid
 flowchart TD
