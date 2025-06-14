@@ -1,6 +1,8 @@
 # Hi there 👋 I'm Akkarapon Phikulsri  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akkaraponph&label=Glancing&color=0e75b6&style=flat" alt="akkaraponph" /> </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### 🧑‍💻 A Software Craftsman
 
