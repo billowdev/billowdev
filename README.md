@@ -11,7 +11,7 @@
 
 ---
 
-### Lifeflows
+## 👨‍💻Workflows
 
 ```mermaid
 flowchart TD
@@ -63,7 +63,7 @@ flowchart TD
     linkStyle 13 stroke:#3b82f6,stroke-width:3px
 ```
 
-## Fun Fact
+## 🌱 Lifeflows
 
 ```mermaid
 flowchart TD
