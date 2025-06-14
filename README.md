@@ -11,6 +11,79 @@
 
 ---
 
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+
+
+<!--START_SECTION:waka-simple-->
+<!--END_SECTION:waka-simple-->
+
+---
+
+> *"Crafting software requires artistry, guided by imagination, grounded in logic, endlessly enduring."*
+
+I thrive on challenges, constantly adapt to new technologies, and strive to contribute to impactful software solutions.
+
+
+
+
+<h4 align="center">
+Activity
+</h4>
+  
+
+
+ <div align="center">
+
+  <div>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akkaraponph&theme=react"  display=block width=69% height=auto  alt="1" >
+  </div>
+  
+
+  <a href="http://www.github.com/akkaraponph"><img width="43%" src="https://github-readme-stats.vercel.app/api?username=akkaraponph&hide=&count_private=true&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="akkaraponph's GitHub stats" /></a>
+  <a href="http://www.github.com/akkaraponph"><img alt="akkaraponph Top Language"  width = "25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akkaraponph&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
+
+</div>
+
+
+
+
+<div>
+
+<h4 align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
+
+
+
+<div align="center">
+
+
+<div style="text-align: center;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/akkaraponph/akkaraponph/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/akkaraponph/akkaraponph/blob/output/github-snake.svg" />
+    <img alt="github-snake" src="https://github.com/akkaraponph/akkaraponph/blob/output/ocean.gif" />
+  </picture>
+</div>
+</div>
+
+
+
+
+    
+![GITHUB Stats](https://raw.githubusercontent.com/akkaraponph/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/akkaraponph/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![GITHUB Stats](https://raw.githubusercontent.com/akkaraponph/github-stats/master/generated/overview.svg#gh-light-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/akkaraponph/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
+
+<br />
+
+---
+
 ## ♾️ Workflows
 
 ```mermaid
@@ -167,76 +240,6 @@ flowchart TD
     linkStyle 29 stroke:#6366f1,stroke-width:2px
     linkStyle 30 stroke:#6366f1,stroke-width:2px
 ```
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
-
-
-<!--START_SECTION:waka-simple-->
-<!--END_SECTION:waka-simple-->
-
----
-
-> *"Crafting software requires artistry, guided by imagination, grounded in logic, endlessly enduring."*
-
-I thrive on challenges, constantly adapt to new technologies, and strive to contribute to impactful software solutions.
-
-
-
-
-<h4 align="center">
-Activity
-</h4>
-  
-
-
- <div align="center">
-
-  <div>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akkaraponph&theme=react"  display=block width=69% height=auto  alt="1" >
-  </div>
-  
-
-  <a href="http://www.github.com/akkaraponph"><img width="43%" src="https://github-readme-stats.vercel.app/api?username=akkaraponph&hide=&count_private=true&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="akkaraponph's GitHub stats" /></a>
-  <a href="http://www.github.com/akkaraponph"><img alt="akkaraponph Top Language"  width = "25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akkaraponph&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
-
-</div>
-
-
-
-
-<div>
-
-<h4 align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-</div>
-
-
-
-<div align="center">
-
-
-<div style="text-align: center;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/akkaraponph/akkaraponph/blob/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/akkaraponph/akkaraponph/blob/output/github-snake.svg" />
-    <img alt="github-snake" src="https://github.com/akkaraponph/akkaraponph/blob/output/ocean.gif" />
-  </picture>
-</div>
-</div>
-
-
-
-
-    
-![GITHUB Stats](https://raw.githubusercontent.com/akkaraponph/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/akkaraponph/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![GITHUB Stats](https://raw.githubusercontent.com/akkaraponph/github-stats/master/generated/overview.svg#gh-light-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/akkaraponph/github-stats/master/generated/languages.svg#gh-light-mode-only)
-
-
-<br />
 
 
 
