@@ -13,7 +13,7 @@ jobs:
       - uses: anmol098/waka-readme-stats@master
         with:
           COMMIT_BY_ME: "False"
-          COMMIT_MESSAGE: "Updated dev metrics"
+          COMMIT_MESSAGE: "build: updated wakatime stats section"
           COMMIT_USERNAME: "akkaraponph"
           COMMIT_EMAIL: "akkaraponph@gmail.com"
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
