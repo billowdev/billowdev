@@ -16,7 +16,7 @@ jobs:
           COMMIT_USERNAME: "akkaraponph"
           COMMIT_EMAIL: "akkaraponph@gmail.com"
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.BD_TOKEN }}
           SHOW_OS: "False"
           SHOW_PROJECTS: "True"
           SHOW_UPDATED_DATE: "True"
