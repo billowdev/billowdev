@@ -10,6 +10,34 @@
 ---
 
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+
+
+<!--START_SECTION:waka-simple-->
+
+```text
+From: 18 August 2021 - To: 13 June 2025
+
+Total Time: 372 hrs 20 mins
+
+C#              100 hrs 10 mins ⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   26.90 %
+Python          44 hrs 3 mins   ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.83 %
+Other           34 hrs 28 mins  ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.26 %
+```
+
+<!--END_SECTION:waka-simple-->
+
+---
+
+> *"Crafting software requires artistry, guided by imagination, grounded in logic, endlessly enduring."*
+
+I thrive on challenges, constantly adapt to new technologies, and strive to contribute to impactful software solutions.
+
+
+
 ```mermaid
 flowchart LR
     A[🎨 Software Craftsmanship] --> B[🎯 Expertise]
@@ -82,34 +110,6 @@ flowchart LR
     %% Clean link styling
     linkStyle default stroke:#6b7280,stroke-width:2px
 ```
-
-
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
-
-
-<!--START_SECTION:waka-simple-->
-
-```text
-From: 18 August 2021 - To: 13 June 2025
-
-Total Time: 372 hrs 20 mins
-
-C#              100 hrs 10 mins ⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   26.90 %
-Python          44 hrs 3 mins   ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.83 %
-Other           34 hrs 28 mins  ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.26 %
-```
-
-<!--END_SECTION:waka-simple-->
-
----
-
-> *"Crafting software requires artistry, guided by imagination, grounded in logic, endlessly enduring."*
-
-I thrive on challenges, constantly adapt to new technologies, and strive to contribute to impactful software solutions.
 
 
 
